@@ -28,7 +28,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
----
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gayatric052&show_icons=true&theme=transparent" alt="GitHub Stats" height="160"/>
@@ -41,6 +40,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gayatric052&theme=flat&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </p>
+
 
 ---
 
