@@ -29,18 +29,17 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gayatric052&show_icons=true&theme=default" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatric052&layout=compact&theme=default" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gayatric052&show_icons=true&theme=transparent" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatric052&layout=compact&theme=transparent" alt="Top Languages" height="160"/>
 </p>
 
 ---
 
 ### 🏆 Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gayatric052&theme=flat&no-frame=true&column=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gayatric052&theme=flat&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </p>
 
 ---
