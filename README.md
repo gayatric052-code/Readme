@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gayatric052&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/gayatric052?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Portfolio-View-blue?style=flat-square&logo=about.me" alt="Portfolio Badge" />
 </p>
 
 ---
@@ -16,38 +17,35 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-**Frontend:** HTML5, CSS3, JavaScript, React.js  
-**Backend:** PHP, Node.js (learning)  
-**Database:** MySQL, SQL Server  
-**Tools & Others:** Git, GitHub, VS Code, Figma  
+### 🛠️ Tech Stack & Skills
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <b>HTML5</b>
+  <img src="https://img.shields.io/badge/HTML-90%25-green?style=flat-square" alt="HTML Skill"/>
+  <b>CSS3</b>
+  <img src="https://img.shields.io/badge/CSS-85%25-blue?style=flat-square" alt="CSS Skill"/>
+  <b>JavaScript</b>
+  <img src="https://img.shields.io/badge/JS-80%25-yellow?style=flat-square" alt="JS Skill"/>
+  <b>React.js</b>
+  <img src="https://img.shields.io/badge/React-70%25-blue?style=flat-square" alt="React Skill"/>
+  <b>PHP</b>
+  <img src="https://img.shields.io/badge/PHP-75%25-purple?style=flat-square" alt="PHP Skill"/>
+  <b>MySQL</b>
+  <img src="https://img.shields.io/badge/MySQL-80%25-darkblue?style=flat-square" alt="MySQL Skill"/>
 </p>
 
 ---
 
 ### 📂 Featured Project
 #### 💼 Resume Generator
-A **responsive Resume Builder Web App** built with **HTML, CSS, JavaScript, PHP, and MySQL** that allows users to create and download professional resumes easily.  
+A **responsive Resume Builder Web App** built with **HTML, CSS, JavaScript, PHP, and MySQL** allowing users to create and download professional resumes easily.  
 🔗 [View Project](#) | 🔗 [Source Code](https://github.com/gayatric052)  
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gayatric052&show_icons=true&theme=radical" alt="Gayatri's GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gayatric052&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayatric052&theme=radical" alt="GitHub Streak" height="160"/>
 </p>
 
@@ -59,14 +57,4 @@ A **responsive Resume Builder Web App** built with **HTML, CSS, JavaScript, PHP,
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gayatric052&theme=flat&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</p>
-
----
-
-### ⚡ Fun Fact
-> “Code is like art — the cleaner it is, the better it looks!” 🎨  
-
----
-
-⭐️ **Connect with me on [GitHub](https://github.com/gayatric052)**
+  <img src="https://github
