@@ -8,20 +8,20 @@
 
 ---
 
-### 🧑‍💻 About Me  
-- 🔭 Currently working on: **Resume Generator Web App (PHP + MySQL)**  
-- 🌱 Learning: **React.js & Python**  
-- 💬 Ask me about: **Frontend Development (HTML, CSS, JS, React)**  
-- 📫 Reach me at: **gayatric052@gmail.com**  
+### 🧑‍💻 About Me
+- 🔭 **Currently working on:** Resume Generator Web App (PHP + MySQL)  
+- 🌱 **Learning:** React.js & Python  
+- 💬 **Ask me about:** Frontend Development (HTML, CSS, JS, React)  
+- 📫 **Reach me at:** [gayatric052@gmail.com](mailto:gayatric052@gmail.com)  
 
 ---
 
-### 🛠️ Tech Stack  
+### 🛠️ Tech Stack
 
 **Frontend:** HTML5, CSS3, JavaScript, React.js  
 **Backend:** PHP, Node.js (learning)  
 **Database:** MySQL, SQL Server  
-**Other Tools:** Git, GitHub, VS Code, Figma  
+**Tools & Others:** Git, GitHub, VS Code, Figma  
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -38,36 +38,35 @@
 
 ---
 
-### 📂 Featured Project  
-#### 💼 Resume Generator  
-A responsive **Resume Builder Web App** built using **HTML, CSS, JavaScript, PHP, and MySQL** — allowing users to create and download professional resumes easily.  
-🔗 *[Add your project link here when hosted]*  
+### 📂 Featured Project
+#### 💼 Resume Generator
+A **responsive Resume Builder Web App** built with **HTML, CSS, JavaScript, PHP, and MySQL** that allows users to create and download professional resumes easily.  
+🔗 [View Project](#) | 🔗 [Source Code](https://github.com/gayatric052)  
 
 ---
 
-### 📊 GitHub Stats  
-
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gayatric052&show_icons=true&theme=transparent" alt="Gayatri's GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayatric052&theme=transparent" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gayatric052&show_icons=true&theme=radical" alt="Gayatri's GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayatric052&theme=radical" alt="GitHub Streak" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatric052&layout=compact&theme=transparent" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatric052&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
 ---
 
-### 🏆 Achievements  
+### 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gayatric052&theme=flat&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-### ⚡ Fun Fact  
+### ⚡ Fun Fact
 > “Code is like art — the cleaner it is, the better it looks!” 🎨  
 
 ---
 
-⭐️ **From [Gayatri Chavan](https://github.com/gayatric052)**
+⭐️ **Connect with me on [GitHub](https://github.com/gayatric052)**
