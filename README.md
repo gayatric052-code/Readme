@@ -5,10 +5,6 @@
   💻 Web Developer | 🌐 Future MERN Stack Developer | 🔥 Passionate Coder | 📚 Lifelong Learner
 </h3>
 
-<p align="center">
-  <!-- 3D Animated Avatar -->
-  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="200" alt="3D Avatar" />
-</p>
 
 ---
 
