@@ -1,79 +1,95 @@
-<!-- 🌸 GAYATRI CHAVAN - WEB DEVELOPER GITHUB PROFILE 🌸 -->
-
-<h1 align="center">👋 Hi, I'm <span style="color:#ff66b2;">Gayatri Chavan</span></h1>
-<h3 align="center">💻 Passionate Web Developer from India 🇮🇳</h3>
+<h1 align="center">🌸 GAYATRI CHAVAN 🌸</h1>
+<h3 align="center">💻 Web Developer | 🌐 Passionate Learner | 🚀 Future MERN Stack Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gayatric052&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/gayatric052?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=gayatric052&label=Profile%20Views&color=7B68EE&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 🌸 About Me
+## 👩‍💻 PROFESSIONAL PROFILE
 
-- 💻 I'm a **Web Developer** passionate about building creative and responsive websites.  
-- 🌱 **Currently Learning:** Advanced frontend skills (React.js, modern UI design).  
-- 🎯 **Next Goal:** Learn **Node.js and MongoDB** to move into full-stack development.  
-- 💬 **Ask me about:** HTML, CSS, JavaScript, and Frontend Design.  
-- 📧 **Reach me at:** [gayatric052@gmail.com](mailto:gayatric052@gmail.com)  
-- ⚡ **Fun fact:** I believe great design + clean code = beautiful websites ✨
+| 👤 Identity | ⚙️ Expertise | 🟢 Status |
+|-------------|--------------|-----------|
+| **Role:** Web Developer <br> **Education:** B.C.S (Computer Science) <br> **Location:** Maharashtra, India 🇮🇳 | **Primary:** HTML, CSS, JavaScript, React <br> **Secondary:** PHP, MySQL <br> **Learning Next:** Node.js, MongoDB | **Mode:** Building Projects 💪 <br> **Availability:** Open to Internships <br> **Focus:** Becoming Full Stack Developer ⚡ |
 
 ---
 
-## 🛠️ Tech Skills
+## 🧠 TECHNOLOGY STACK
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,nodejs,mongodb,git,github,vscode" alt="Tech Stack" />
 </p>
 
 ---
 
-## 🚀 Future Learning Path
+## 💼 CORE & DEV SKILLS
+
+| 🧩 Category | 🛠️ Tools / Skills |
+|-------------|-------------------|
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+), React.js |
+| **Backend (Learning)** | Node.js, Express.js |
+| **Database** | MySQL, MongoDB |
+| **Version Control** | Git, GitHub |
+| **Design** | Responsive UI, Material UI |
+| **Soft Skills** | Teamwork, Problem Solving, Creativity |
+
+---
+
+## 🚀 PROJECT SHOWCASE
+
+### 📝 Online Resume Builder
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next-Learn-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next-Learn-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135680.png" width="150" alt="Resume Builder Icon" />
+</p>
+
+> A **Responsive Resume Builder Web App** where users can easily create, preview, and download professional resumes in PDF format.
+
+💡 **Tech Used:** HTML | CSS | JavaScript | PHP | MySQL  
+⚙️ **Features:**
+- Dynamic Resume Form
+- Save & Edit Data (Database Integration)
+- PDF Download (html2pdf.js)
+- Clean & Modern UI
+- Secure Login System (PHP + MySQL)
+
+✨ *System Status:* Building new features and learning daily 🚀  
+⭐ Star this repository to support my work!
+
+🔗 [View Live Demo](https://your-portfolio-link.com) | 💻 [Source Code](https://github.com/gayatric052/resume-builder)
+
+---
+
+## 📊 GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gayatric052&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayatric052&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatric052&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-## 💼 Featured Project
-
-### 📝 Resume Builder Web App  
-A responsive **Resume Builder Website** where users can create and download resumes instantly.  
-Built using **HTML, CSS, JavaScript, PHP, and MySQL**.
-
-🔗 [View Repository](https://github.com/gayatric052/resume-builder)
-
----
-
-## 📊 GitHub Stats
+## 🏆 ACHIEVEMENTS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gayatric052&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayatric052&theme=radical" height="160" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gayatric052&theme=onedark&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 CONNECT WITH ME
 
 <p align="center">
-  <a href="https://linkedin.com/in/gayatric052" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:gayatric052@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/gayatric052" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
+  <a href="https://linkedin.com/in/gayatric052"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:gayatric052@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/gayatric052"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
 
-<p align="center">✨ Designed with ❤️ by <b>Gayatri Chavan</b> ✨</p>
+<p align="center">💜 <b>“Code. Learn. Build. Repeat.”</b> 💜 <br>✨ Crafted with ❤️ by <b>Gayatri Chavan</b> ✨</p>
