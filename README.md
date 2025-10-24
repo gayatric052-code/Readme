@@ -1,16 +1,18 @@
-<h1 align="center">🚀 Web Developer | 💻 React & Node.js Learner | 🌱 Lifelong Coder</h1>
+<h1 align="center">✨ Gayatri Chavan ✨</h1>
+<h3 align="center">🌐 Frontend Developer | 🚀 React Learner | 💻 Future MERN Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gayatric052&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/gayatric052?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
 
 ## 👩‍💻 PROFESSIONAL PROFILE
 
-### 👨‍💻 Identity
+### 👩 Identity
 **Name:** Gayatri Chavan  
-**Title:** Aspiring Full Stack Web Developer  
+**Title:** Aspiring Frontend Developer  
 **Education:** B.C.S (Computer Science)  
 **Location:** Maharashtra, India 🇮🇳  
 
@@ -19,13 +21,13 @@
 ## ⚙️ EXPERTISE
 
 ### 🧩 Core Skills
-| Category | Technologies |
-|-----------|---------------|
-| **Frontend** | HTML, CSS, JavaScript, React.js |
-| **Backend** | Node.js, Express.js, PHP |
-| **Database** | MySQL, MongoDB *(Learning)* |
+| Area | Technologies |
+|-------|---------------|
+| **Frontend** | HTML, CSS, JavaScript, React.js *(Learning)* |
+| **Backend** | Node.js *(Next to Learn)* |
+| **Database** | MySQL, MongoDB *(Next to Learn)* |
 | **Version Control** | Git, GitHub |
-| **Design & Tools** | Figma, VS Code, Material UI |
+| **Design Tools** | Figma, Material UI, Responsive Design |
 
 ---
 
@@ -33,44 +35,44 @@
 
 | Mode | Focus | Availability |
 |------|--------|--------------|
-| 🧑‍💻 Building Projects | 🎯 Full Stack Development | 🤝 Open to Internships |
+| 💻 Building Projects | 🎯 Frontend Development (React.js) | 🤝 Open to Internships |
+
+---
+
+## 🚀 LEARNING ROADMAP
+
+- 🌱 **Currently Learning:** React.js (Frontend Framework)  
+- 🎯 **Next Goal:** Learn **Node.js & MongoDB** to master Full Stack (MERN)  
+- 🧩 **Skills in Progress:** Components, Hooks, Routing, and APIs  
+- 💡 **Future Vision:** Become a job-ready **Full Stack Web Developer**
 
 ---
 
 ## ⚡ TECHNOLOGY STACK
 
-### 💻 Core Skills
+### 💻 Tech Tools & Languages
 
 | Category | Tools |
 |-----------|-------|
-| **Languages** | HTML, CSS, JavaScript, PHP |
+| **Languages** | HTML, CSS, JavaScript |
 | **Frontend Framework** | React.js |
-| **Backend Framework** | Node.js, Express.js |
+| **Backend (Upcoming)** | Node.js, Express.js |
 | **Database** | MySQL, MongoDB |
 | **Version Control** | Git & GitHub |
-| **Design** | Figma, Material UI |
-
----
-
-## 📚 LEARNING JOURNEY
-
-- 🌱 **Currently Learning:** React.js (Frontend) & Node.js (Backend)  
-- 🚀 **Goal:** Become a job-ready Full Stack Developer (MERN Stack)  
-- 🔍 **Exploring:** API Integration, Authentication, Deployment  
+| **UI Design** | Figma, Material UI |
 
 ---
 
 ## 💼 PROJECT SHOWCASE
 
 ### 📝 Resume Generator Web App
-A **responsive web application** for creating and downloading professional resumes easily.  
-**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL  
+A **responsive web app** that helps users create and download resumes instantly.  
+Built using **HTML, CSS, JavaScript, PHP, and MySQL**.  
 
 **Features:**
-- Custom Resume Templates  
-- PDF Download  
-- Data Stored using MySQL  
-- User-Friendly Design  
+- User-friendly form-based interface  
+- PDF Resume Download  
+- Clean and modern UI  
 
 🔗 [View Project](https://yourportfolio.com) | 💻 [Source Code](https://github.com/gayatric052/resume-generator)
 
@@ -117,7 +119,7 @@ A **responsive web application** for creating and downloading professional resum
 ---
 
 ## ⚡ SYSTEM STATUS
-> 🟢 ONLINE | 💪 BUILDING PROJECTS | 🚀 LEARNING EVERY DAY  
+> 🟢 ONLINE | 💪 LEARNING REACT.JS | 🚀 NEXT: NODE.JS & MONGODB  
 
 ---
 
