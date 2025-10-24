@@ -1,10 +1,5 @@
 <h1 align="center">🌸 GAYATRI CHAVAN 🌸</h1>
 <h3 align="center">💻 Web Developer | 🌐 Future MERN Stack Developer | 🚀 Passionate Learner</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="200" alt="3D Avatar" />
-</p>
-
 ---
 
 ## 👤 PROFESSIONAL PROFILE
