@@ -64,9 +64,7 @@
 ---
 
 ## ⚡ SYSTEM STATUS
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="100" />
-</p>
+
 **Status:** ONLINE AND CODING NON-STOP 🚀  
 **Focus:** Building projects | Learning every day  
 
